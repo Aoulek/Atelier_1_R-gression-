@@ -1,4 +1,4 @@
-# Atelier_1_R-gression
+# Atelier_1_Regression
 Objective :
 l’objective principal de cet atelier est de pratiquer les deux concepts de la régression : la
 régression linière simple et la régression linière multiple, en traitant des données de plusieurs
